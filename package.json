@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mysql2": "^3.6.4"
+  },
+  "devDependencies": {
+    "prettier": "3.1.0"
+  }
+}
